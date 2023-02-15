@@ -1,14 +1,9 @@
-![GitHub Cards Preview](https://github.com/sameersyd/Wiggles-iOS/blob/main/art/GITHUB-COVER.png?raw=true)
-
 # Wiggles 🐶
-Beautiful Puppy adoption app built to Demonstrate the use of SwiftUI and MVVM Architecture 🏗. *Made with love ❤️ by [Sameer Nawaz](https://github.com/sameersyd)*
+Beautiful Puppy adoption app built to Demonstrate the use of SwiftUI and MVVM Architecture 🏗. *Made with love ❤️ by [Albert Lukmanov](https://github.com/etonealbert)*
 
 <br />
 
 ## UI Design 🎨
-
-The `UI/UX` & `README.md` structure for this Wiggles App was designed by <a href="https://github.com/Spikeysanju">@Spikeysanju</a>
-
 ***Click to View Wiggles app Design from below 👇***
 
 [![Wiggles](https://img.shields.io/badge/Wiggles-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/OXtSFvmcIcecMkuqSi2RaT/Compose-Challenge-1?node-id=102%3A1)
@@ -18,14 +13,14 @@ The `UI/UX` & `README.md` structure for this Wiggles App was designed by <a href
 ## Light Mode 🌞
 Home | Details | Details (Scrolled)
 --- | --- | --- |
-![](https://github.com/sameersyd/Wiggles-iOS/blob/main/art/home-screen.png) | ![](https://github.com/sameersyd/Wiggles-iOS/blob/main/art/details-screen.png) | ![](https://github.com/sameersyd/Wiggles-iOS/blob/main/art/details-screen-scrolled.png)
+![](https://github.com/etonealbert/wiggles-puppy/blob/main/art/home-screen.png) | ![](https://github.com/etonealbert/wiggles-puppy/blob/main/art/details-screen.png) | ![](https://github.com/etonealbert/wiggles-puppy/blob/main/art/details-screen-scrolled.png)
 
 <br />
 
 ## Dark Mode 🌚
 Home | Details | Details (Scrolled)
 --- | --- | --- |
-![](https://github.com/sameersyd/Wiggles-iOS/blob/main/art/home-screen-dark.png) | ![](https://github.com/sameersyd/Wiggles-iOS/blob/main/art/details-screen-dark.png) | ![](https://github.com/sameersyd/Wiggles-iOS/blob/main/art/details-screen-scrolled-dark.png)
+![](https://github.com/etonealbert/wiggles-puppy/blob/main/art/home-screen-dark.png) | ![](https://github.com/etonealbert/wiggles-puppy/blob/main/art/details-screen-dark.png) | ![](https://github.com/etonealbert/wiggles-puppy/blob/main/art/details-screen-scrolled-dark.png)
 
 <br />
 
@@ -36,13 +31,13 @@ Home | Details | Details (Scrolled)
 <br />
 
 ## Android Version 📱
-Checkout the Android version of this app <a href="https://github.com/Spikeysanju/Wiggles">Wiggles</a>
+Checkout the Android version of this app <a href="https://github.com/etonealbert/puppy-adoption-app">Wiggles</a>
 
 <br />
 
 ## Contribute 🤝
 If you want to contribute to this app, you're always welcome!
-See [Contributing Guidelines](https://github.com/sameersyd/Wiggles-iOS/blob/main/CONTRIBUTION.md). 
+See [Contributing Guidelines](https://github.com/etonealbert/wiggles-puppy/blob/main/CONTRIBUTION.md). 
 
 <br />
 
@@ -51,14 +46,14 @@ If this project helped you reduce time to develop, you can buy me a cup of coffe
 
 <br />
 
-<a href="https://www.buymeacoffee.com/sameersyd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/etonealbert" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## License 🔖
 ```
     Apache 2.0 License
 
 
-    Copyright 2021 Sameer Nawaz
+    Copyright 2021 Albert Lukmanov
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
